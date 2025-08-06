@@ -1,0 +1,46 @@
+{
+  "name": "uwuify-revenge-plugin",
+  "version": "1.0.0",
+  "description": "A plugin that uwuifies your Discord messages for Revenge Discord client",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "revenge",
+    "discord",
+    "vendetta",
+    "plugin",
+    "uwu",
+    "text-transform",
+    "chat",
+    "fun"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/uwuify-revenge-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/uwuify-revenge-plugin/issues"
+  },
+  "homepage": "https://github.com/yourusername/uwuify-revenge-plugin#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.72.0",
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {
+    "@vendetta/types": "*",
+    "@vendetta/metro": "*",
+    "@vendetta/patcher": "*",
+    "@vendetta/plugin": "*",
+    "@vendetta/ui": "*"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

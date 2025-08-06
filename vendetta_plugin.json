@@ -1,0 +1,16 @@
+{
+  "name": "UwUify",
+  "description": "Transform your Discord messages into adorable uwu speak! Features auto-uwuification, manual /uwu command, and customizable intensity levels.",
+  "authors": [
+    {
+      "name": "Your Name",
+      "id": "your_discord_user_id_here"
+    }
+  ],
+  "main": "src/index.ts",
+  "hash": "",
+  "version": "1.0.0",
+  "vendetta": {
+    "minVersion": "1.0.0"
+  }
+}
