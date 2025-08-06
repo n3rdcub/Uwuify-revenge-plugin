@@ -1,0 +1,14 @@
+{
+  "name": "Uwuifier",
+  "description": "Replaces outgoing Discord messages with cutesy uwu-style speech.",
+  "authors": [
+    {
+      "name": "n3rdcub",
+      "id": "YOUR_ID_HERE"
+    }
+  ],
+  "main": src/index.ts",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
+}
