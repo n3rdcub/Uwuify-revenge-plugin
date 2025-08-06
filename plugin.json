@@ -1,0 +1,7 @@
+{
+  "name": "Uwuifier",
+  "description": "Replaces outgoing Discord messages with cutesy uwu-style speech.",
+  "author": "placeholder-org",
+  "version": "1.0.0",
+  "main": "index.js"
+}
