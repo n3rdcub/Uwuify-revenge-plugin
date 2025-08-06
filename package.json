@@ -18,16 +18,16 @@
     "chat",
     "fun"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "n3rdcub",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/uwuify-revenge-plugin.git"
+    "url": "https://github.com/n3rdcub/uwuify-revenge-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/uwuify-revenge-plugin/issues"
+    "url": "https://github.com/n3rdcub/uwuify-revenge-plugin/issues"
   },
-  "homepage": "https://github.com/yourusername/uwuify-revenge-plugin#readme",
+  "homepage": "https://github.com/n3rdcub/uwuify-revenge-plugin#readme",
   "devDependencies": {
     "@types/react": "^18.2.0",
     "@types/react-native": "^0.72.0",
